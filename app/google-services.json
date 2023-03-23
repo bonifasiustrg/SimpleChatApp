@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453185535205",
+    "project_id": "simplechatapp-179db",
+    "storage_bucket": "simplechatapp-179db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453185535205:android:1b54c391380cda09e7e80c",
+        "android_client_info": {
+          "package_name": "com.takasima.simplechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453185535205-am5a4q5oek96bv02g5o59ec6r9crbgg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrfjRk3AijZG_08oD4DLbFoR3Rz25KPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453185535205-am5a4q5oek96bv02g5o59ec6r9crbgg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
